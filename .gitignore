@@ -30,5 +30,3 @@ replay_pid*
 *.log
 *.cache
 composer.lock
-
-.justChecking
